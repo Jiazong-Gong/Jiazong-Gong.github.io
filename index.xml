@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JZ1G</title>
-    <link>https:www.example.org/</link>
+    <link>https:Jiazong-Gong.github.io/</link>
     <description>Recent content on JZ1G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 17:08:49 -0400</lastBuildDate><atom:link href="https:www.example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 17:08:49 -0400</lastBuildDate><atom:link href="https:Jiazong-Gong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https:www.example.org/posts/test/</link>
+      <link>https:Jiazong-Gong.github.io/posts/test/</link>
       <pubDate>Sun, 15 May 2022 17:08:49 -0400</pubDate>
       
-      <guid>https:www.example.org/posts/test/</guid>
+      <guid>https:Jiazong-Gong.github.io/posts/test/</guid>
       <description>test
  test  test  test  </description>
     </item>
