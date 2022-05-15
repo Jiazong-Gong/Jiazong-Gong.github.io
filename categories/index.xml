@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JZ1G</title>
-    <link>Jiazong-Gong.github.io/categories/</link>
+    <link>https://Jiazong-Gong.github.io/studio/categories/</link>
     <description>Recent content in Categories on JZ1G</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="Jiazong-Gong.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://Jiazong-Gong.github.io/studio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
